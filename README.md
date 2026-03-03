@@ -1,4 +1,4 @@
-# 🤖 GPT14 Terminal Chatbot
+# 🤖 Syntiox Terminal Chatbot
 
 <div align="center">
 
