@@ -27,8 +27,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sh4lu-z/gpt14-terminal-bot.git
-   cd gpt14-terminal-bot
+   git clone https://github.com/Syntiox/mini-chatbot.git
+   cd mini-chatbot
    ```
 
 2. **Install dependencies:**
@@ -57,7 +57,7 @@ python mini_chatbot.py
 
 You can customize the `SYSTEM_INSTRUCTION` in `mini_chatbot.py` to change the bot's personality. Currently, it is set to:
 
-> "You are a Cyber Security and Python Expert named 'GPT14'. You were created by the developer 'sh4lu-z'. Answer in a mix of English and Sinhala (Singlish)..."
+> "You are a Cyber Security and Python Expert named 'Syntiox'. You were created by the developer 'sh4lu-z'. Answer in a mix of English and Sinhala (Singlish)..."
 
 ## 📜 License
 
