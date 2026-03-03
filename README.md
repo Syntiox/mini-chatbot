@@ -19,7 +19,7 @@
   - **Google Gemini** (Gemini 2.5 Flash) - *Fast & Free Tier available*
   - **Groq** (Llama 3 70B) - *Blazing fast*
   - **OpenAI** (GPT-4 Mini) - *Reliable & Smart*
-- **💬 GPT14 Persona**: A custom Cyber Security & Python Expert persona that speaks in **Singlish** (Sinhala + English).
+- **💬  Syntiox**: A custom Cyber Security & Python Expert persona that speaks in **Singlish** (Sinhala + English).
 - **🎨 Beautiful UI**: Built with `rich` library for a VS Code-like terminal experience with colors, panels, and markdown support.
 - **⚡ Streaming**: Real-time typing effect for responses.
 
